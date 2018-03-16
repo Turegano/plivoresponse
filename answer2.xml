@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
 <Response>
     <Speak language="es-ES" voice="MAN">me gusta el árbol que está ahí</Speak>    
 </Response>
