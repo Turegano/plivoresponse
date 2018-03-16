@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Response>
-    <Speak language="es-ES" voice="MAN">critico</Speak>    
-    <!--<Speak language="es-ES">La vida puede ser maravillosa</Speak>
-    <Speak language="es-ES" voice="WOMAN">alarma solucionada</Speak>
-    <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>-->
+    <Speak language="es-ES" voice="MAN">esta es una incidencia critica</Speak>    
 </Response>
